@@ -1,1 +1,1 @@
-# gini_index_api
+# gini_api
